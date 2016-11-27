@@ -1,0 +1,20 @@
++++
+title = "Why PC sales are slowing down"
+date = "2011-12-03"
+slug = "why-pc-sales-are-slowing-down"
+categories = [ "Technology" ]
++++
+
+There has been a lot of talk lately about how tablets are eating into the classic PC market, that people don't need PCs any more, and how doomed they are. It's true that we are witnessing a decline of the PC platform, and that this trend will only intensify. At the same time I don't believe that **right now** it has much to do with rapid growth of tablet market. There are many other resons it is bad to be a PC vendor right now.
+
+First of all, for quite some time now desktop computers are simply **good enough**. There used to be the push to buy newer and faster hardware every year but for most people that need is gone. Many use their machines until they break down, and not until they can buy something faster. What activities really require a lot of processing power? And even more interesting question - how many of these activities will not migrate to the cloud in near future? I don't need faster desktop computer. I might need hardware that's instantly on, consumes less power, is quiet, and syncs to every other device I have, but faster it not among my requirements for a PC. Down the line, I don't really need more storage - days of "downloading the internet" are long gone.
+
+What used to differentiate PCs is now just a set of meaningless numbers. The cheapest one you can get will be good enough in terms of performance and storage. If you add the fact that modern electronics is fairly durable, you get lenghtening of average upgrade cycle, and in consequence - declining demand. Combine that with low margins and it's obvious why HP wants out ...
+
+It gets worse. People actually started buying slower hardware, like netbooks and tablets, because it suits their usage patterns better - to the point whese sacrificing performance for size and portability makes sense. A trend that really has hit Microsoft hard - every operating system they built so far had bigger requirements than previous one. Windows 8 reverses this trend - it's going to consume less resources for than Windows 7. Great for Microsoft because they understand "adapt or die" philosopy, very bad for PC vendors because release of next version of Windows no longer drives next hardware upgrade cycle. Demand for new PCs declines even more.
+
+It's not that much better in corporate world - yes, we will always need more processing power, but not on desktops. Our processing needs will be on servers. Nobody is doing complex data analysis on the desktop any more. We also do less and less of software builds on the desktops, too. Even small teams are using continuous integration servers today, very often doing builds and automated testing in distributed way. Again, for many people desktop is becoming just a tool to launch browser/simplistic software, and not where real processing happens. Commodity hardware is also more often than not enough to use content creation software - so why upgrade?
+
+Tablets are something that's only starting to happen on top of these trends. As hardware and software matures we indeed might see people choose not to buy another deskop PC, and for some tablet will become the only computing device they use. We are still early on adoption curve, though. The year 2012 might just be the year when we see start of mass market adoption of these devices. The prices will drop for both hardware and services like mobile broadband, and that will eventually move tablet from luxury into commodity.
+
+PC vendors are doomed because of all these trends, not just one of them. They are also facing "adapt of die" ultimatum. They just can't be winners without radical shifts in their business. On the other hand, there are great opportunities related to these trends: networking solutions, datacenter management, cloud services and middleware, data storage solutions, etc ... that's **bound to explode**. Great place to be in when starting a company today, by the way :)

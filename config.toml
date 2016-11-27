@@ -1,0 +1,70 @@
+title = "Maciej Mróz Personal Blog"
+languageCode = "en-us"
+baseurl = "https://maciejmroz.com/"
+theme = "hugo-octopress"
+
+# Number of blog posts displayed in each page
+paginate = 6
+
+[params]
+subtitle = "Because why not"
+author = "Maciej Mróz"
+googleAnalytics = "UA-88050305-1"
+github = "https://github.com/maciejmroz/"
+twitter = "https://twitter.com/maciejmroz/"
+linkedin = "https://www.linkedin.com/in/mrozmaciej/"
+facebook = "https://www.facebook.com/maciej.mroz/"
+
+sidebarRecentLimit = 6
+sidebarHeader = "About me"
+sidebarText = "I'm just a geek, interested in technology, product development & management, game industry and other geeky stuff."
+
+sidebarMenuEnabled = true
+sidebarMenuHeader = "Categories"
+
+[indexes]
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+  Name = "Blog"
+  URL = "/"
+  weight = -10
+
+[[menu.main]]
+  Name = "Demoscene"
+  URL = "/demoscene"
+  weight = 0
+
+[[menu.sidebar]]
+  Name = "Technology"
+  URL = "/categories/technology/"
+  weight = 0
+
+[[menu.sidebar]]
+  Name = "Programming"
+  URL = "/categories/programming/"
+  weight = 0
+
+[[menu.sidebar]]
+  Name = "Server Side"
+  URL = "/categories/server-side/"
+  weight = 0
+
+[[menu.sidebar]]
+  Name = "Product Management"
+  URL = "/categories/product-management/"
+  weight = 0
+
+[[menu.sidebar]]
+  Name = "Game Development"
+  URL = "/categories/game-development/"
+  weight = 0
+
+[[menu.sidebar]]
+  Name = "Game Industry"
+  URL = "/categories/game-industry/"
+  weight = 0

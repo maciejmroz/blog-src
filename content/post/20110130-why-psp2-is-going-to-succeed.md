@@ -1,0 +1,17 @@
++++
+title = "Why PSP2 is going to succeed"
+date = "2011-01-30"
+slug = "why-psp2-is-going-to-succeed"
+categories = [ "Game Industry", "Technology" ]
+tags = [ "Sony", "PSP", "PSP2" ]
++++
+
+They actually call it NGP, standing for Next Generation Portable. I wouldn't really be suprised that much if the name was left unchanged in final product. Anyway, I've seen some posts from respected sites saying that PSP2 is doomed, dead on arrival, etc etc ... which I think is completely wrong thinking. The basic problem is comparing it to a phone, usually the iPhone.
+
+It is true that games are huge on Apple platform, and they are only going to get bigger. But comparing Angry Birds or Cut The Rope to God of War, Tekken or Wipeout ... come on, be serious here for a moment. **It is not the same market**. One can actually argue that PSP (the first one) has been offering the best portable gaming experience to this day. The only real competitor it has is the Nintendo DS, which is also a **dedicated** device. And being dedicated device targeted at specific audience is very important.
+
+The biggest issue is controls. Both Sony and Nintendo have built their devices for gaming, available buttons and their layout are optimized for this purpose only. You don't do phone calls with these devices, you don't surf the web, you don't read your mail, or use Skype. Even if you can do some of these things, they are not the primary focus. Even if NGP has all of mentioned functionality, the device is clearly created with games in mind. Because that is what target audience cares about. Guess what phones are primarily made for? If you said "gaming" you are wrong. Yes, recent phones are more powerful than DS/PSP, but do they offer better gaming experience? Today's smartphones are meant to do all, and be perfect at communication: phone calls, sms, mail, Twitter, Facebook ... games are just an addition.
+
+Let me repeat one thing to be very clear here: I absolutely believe that smartphone gaming market is going to continue growing, I just don't see how it could seriously hurt dedicated gaming devices. It would be in my mind similar to like saying that FarmVille steals players from Call of Duty. Actually, social gaming phenomena is very good to compare here - it's much less about stealing existing customers, and much more about creating completely new market. NGP has to appeal to its target market, and it does everything it needs to do so. Every owner of the PSP will agree that just one analog stick in first PSP is a big limitation. Fixed, NGP has dual analog sticks. And they don't have to be emulated using touchscreen, like in many iPhone games. UMD might be a good decision at the time first PSP was released, but is had to go. Ability to have more than 1GB on single disc is great (it totally beats smartphone game size limits, even today), but as a PSP owner I'll know one thing - having to carry all these UMD discs around is far from great. And, even after PSP Go was released, Sony offered no way to copy games into internal memory/flash card. They fixed that in NGP: no more discs, games will be distributed on flash cards. Touch screen and touch panel in the back will allow developers to use touch controls **where it actually matters**. Add to this very powerful CPU/GPU pair and low level hardware access for developers.
+
+For a gamer NGP is a must buy. If Sony doesn't do anything stupid, and release the device in sensible time, I don't really see how it could fail.
