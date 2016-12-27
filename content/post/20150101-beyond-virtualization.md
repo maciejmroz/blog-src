@@ -3,7 +3,7 @@ title = "Beyond virtualization"
 date = "2015-01-01"
 slug = "beyond-virtualization"
 categories = [ "Technology", "Server Side" ]
-tags = [ "Docker", "Microservices", "Containers", "Cloud Computing", "AWS", "Virualization"]
+tags = [ "Docker", "Microservices", "Containers", "Cloud Computing", "AWS", "Virtualization"]
 +++
 
 I guess it's time to sum up recent trends in how we build, deploy, and operate complex server side software. Virtualization and cloud computing have been with us for quite a while but right now the era of containers is coming, with entire Docker ecosystem paving the way. You might want to ask a very valid question: "What's in it for me?" :) I will focus on business implications of the technology. But let's set the context first.
