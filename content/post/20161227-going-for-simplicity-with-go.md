@@ -6,7 +6,7 @@ categories = ["Programming", "Server Side"]
 tags = ["Golang", "HTTPS", "HSTS", "Let's Encrypt", "Echo"]
 +++
 
-If you are backend engineer, you probably treat nonfunctional requirements like security, availability, scalability etc. Just as if they were laws of physics. And that's good when working on mature, mission critical systems. But what if you don't need all that and want to simply focus on getting something simple but professionally looking out there? Something like MVP/early stage product?
+If you are backend engineer, you probably treat nonfunctional requirements like security, availability, scalability etc. just as if they were laws of physics. And that's good when working on mature, mission critical systems. But what if you don't need all that and want to simply focus on getting something simple but professionally looking out there? Something like MVP/early stage product?
 
 Do you really need microservices, containers, service discovery, load balancers, caches, multiple databases, all clustered and replicated accross multiple availability zones? Hint: you are not making any money yet and there's big chance you will not get to the point where you have product/market fit.
 
